@@ -1,6 +1,8 @@
-<html>
-<body>
-<h1>README</h1>
-<p>This is version 0.1 of the readme file.</p>
-</body>
-</html>
+= readme =
+== level 2 ==
+Here is '''some''' ''text''.
+=== level 3 ===
+Here is some more text.
+ here is
+ some pre
+ text
