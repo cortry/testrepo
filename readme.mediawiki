@@ -1,4 +1,0 @@
-= README =
-== Notes ==
-* Unfortunately, using mediawiki format for the readme looks like ''crap'' in the windows github client.
-* Please see '''readme.htm'''.
