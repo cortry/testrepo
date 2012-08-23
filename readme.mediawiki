@@ -6,3 +6,14 @@ Here is some more text.
  here is
  some pre
  text
+== Begin HTML Test ==
+<html>
+<body>
+<h1>README</h1>
+<p>This is version 0.1 of the readme file.</p>
+</body>
+</html>
+== End HTML Test ==
+=== Appendices ===
+* Foo
+* Bar
