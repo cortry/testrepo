@@ -1,6 +1,4 @@
-<html>
-<body>
-<h1>README</h1>
-<p>What if the mediawiki file is just html?</p>
-</body>
-</html>
+= README =
+== Notes ==
+* Unfortunately, using mediawiki format for the readme looks like ''crap'' in the windows github client.
+* Please see '''readme.htm'''.
