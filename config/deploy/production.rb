@@ -12,7 +12,7 @@ require "rvm/capistrano"                  # Load RVM's capistrano plugin.
 set :rvm_ruby_string, 'ruby-1.9.3-p125'        # Or whatever env you want it to run in.
 
 set :repository,  "git@github.com:hom/handson_poker.git"
-set :branch, 'v2.004'
+set :branch, 'v2.007'
 
 set :deploy_to,   "/var/www/social/wptfb/html/#{application}"
 
